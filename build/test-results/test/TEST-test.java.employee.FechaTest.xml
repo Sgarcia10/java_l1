@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.employee.FechaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-23T14:21:17" hostname="santi-mac.local" time="0.027">
+  <properties/>
+  <testcase name="testDarDiferenciaEnMeses" classname="test.java.employee.FechaTest" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
